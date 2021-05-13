@@ -1,0 +1,50 @@
+#one{
+    text-align: center;
+    background-image:url("Background.jpg");
+    padding-top:2px;    
+}
+#two{
+    color:white;
+
+}
+#three{
+    color:white;
+}
+#four{
+    color: skyblue;
+}
+#five{
+    padding-left:200px;
+}
+#six{
+    text-decoration: underline;
+    color:skyblue;
+}
+#seven{
+    color: blanchedalmond;
+    padding-left: 200px;
+    background-color: #f2021a;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#nine{
+    color: skyblue;
+}
+#ten{
+    padding-left: 200px;
+}
+#eleven{
+    color: skyblue;
+    text-decoration:underline ;
+}
+#twelve{
+    padding-top:2px;
+    color: blanchedalmond;
+    padding-left:200px;
+    background-color: #302b2b;
+    padding-bottom:5px ;
+}
+#once{
+    border-top-style: solid;
+    border-top-color:#f0020a;
+}
