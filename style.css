@@ -1,17 +1,19 @@
 #one{
+    
     text-align: center;
-    background-image:url("background.jpg");
-    padding-top:2px;    
+    background-image:url("Background.jpg");
+    padding-top:2px;   
+    filter:brightness(0.3) 
 }
 #two{
-    color:white;
+    color:yellowgreen;
 
 }
 #three{
-    color:white;
+    color:yellowgreen;
 }
 #four{
-    color: skyblue;
+    color:#03fcd3;
 }
 #five{
     padding-left:200px;
